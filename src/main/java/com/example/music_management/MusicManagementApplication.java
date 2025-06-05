@@ -5,7 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 public class MusicManagementApplication {
-// test
+// tesy
 	public static void main(String[] args) {
 		SpringApplication.run(MusicManagementApplication.class, args);
 	}
